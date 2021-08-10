@@ -28,8 +28,38 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
 
 ---
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=true)
+
+---
+
+<br />
 <h3>Find me on,</h3>
-<p align="center"><a href="https://github.com/SaMs-Hub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/shafi-khan-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:khanshaf223@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-</p>
+
+<a href="https://in.linkedin.com/in/shafi-khan">
+  <img
+    align="left"
+    alt="Shafi KHan| Linkedin"
+    width="24px"
+    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Linkedin.svg"
+  />
+</a>
+
+<a href="https://twitter.com/SaMs_Hub">
+  <img
+    align="left"
+    alt="SaMs-HUb | Twitter"
+    width="26px"
+    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Twitter.svg"
+  />
+</a>
+
+
+
+<a href="mailto:khanshaf223@gmail.com">
+  <img
+    align="left"
+    alt="Shafi Khan | Gmail"
+    width="26px"
+    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Gmail.svg"
+  />
+</a>
