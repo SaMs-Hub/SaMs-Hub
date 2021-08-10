@@ -35,7 +35,7 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
 <br />
 <h3>Find me on,</h3>
 
-<a href="https://in.linkedin.com/in/shafi-khan">
+<a href="https://www.linkedin.com/in/shafi-khan-/">
   <img
     align="left"
     alt="Shafi KHan| Linkedin"
