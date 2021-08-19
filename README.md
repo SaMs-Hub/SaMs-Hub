@@ -7,7 +7,7 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
 
 - 🌱 Having a keen interest in Startups and Developing Products that can make an beneficial impact over Peoples lives 🤓
 - 👯 Looking to collaborate to more Open-Source-projects.
-- ⚡ Hobbies: I love to AAA PC Titles🏸 & reading Productive Books to tackle Boredom </p>
+- ⚡ Hobbies: Love to  play AAA PC Titles🏸 & reading Productive Books to tackle Boredom </p>
 <p>
 
   <img alt="C++" src="https://img.shields.io/badge/-C++-4382b3?style=flat-square&logo=c%2B%2B&logoColor=white" />
