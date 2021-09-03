@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, This is Shafi Khan. </h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, This is Shafi Khan. </h1>
 
 ---
 
@@ -28,13 +28,30 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=tue)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=tue) -->
+
+
+<table><tr><td><img src="http://github-readme-streak-stats.herokuapp.com?user=SaMs-Hub&theme=prussian&hide_border=true"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMs-Hub&layout=compact&theme=vision-friendly-dark&langs_count=6"/></td></tr></table> 
+
+
+  [![SaM's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SaMs-Hub&theme=xcode)](https://git.io/SaMs-Hub)
+ 
+  <br>
+  <br>
+  <h4> GitHub Trophies </h4>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SaMs-Hub&theme=gruvbox)](https://github.com/SaMs-Hub/github-profile-trophy)
+
+   <br>
+   <br>
+
+   
 
 ---
 
 <br />
 <h3>Find me on,</h3>
-
+<!-- 
 <a href="https://www.linkedin.com/in/shafi-khan-/">
   <img
     align="left"
@@ -62,4 +79,8 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
     width="26px"
     src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Gmail.svg"
   />
-</a>
+</a> -->
+
+<a href="https://twitter.com/SaMs_Hub" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80" alt="Twitter" align="center"></a>
+&ensp;
+<a href="https://linkedin.com/in/shafi-khan-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
