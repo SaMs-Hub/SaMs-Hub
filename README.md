@@ -28,7 +28,7 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=tue)
 
 ---
 
