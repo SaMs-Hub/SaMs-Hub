@@ -6,7 +6,6 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
 <img src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="right" width="150"/>
 
 - 🌱 Having a keen interest in Startups and Developing Products that can make an beneficial impact over Peoples lives 🤓
-- 👯 Looking to collaborate to more Open-Source-projects.
 - ⚡ Hobbies: Love to  play AAA PC Titles🏸 & reading Productive Books to tackle Boredom </p>
 <p>
 
@@ -40,7 +39,8 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
   <br>
   <h4> GitHub Trophies </h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaMs-Hub&theme=gruvbox)](https://github.com/SaMs-Hub/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SaMs-Hub&theme=onedark)](https://github.com/SaMs-Hub/github-profile-trophy)
+
 
    <br>
    <br>
