@@ -31,7 +31,7 @@ I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=tue) -->
 
 
-<table><tr><td><img src="http://github-readme-streak-stats.herokuapp.com?user=SaMs-Hub&theme=prussian&hide_border=true"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMs-Hub&layout=compact&theme=vision-friendly-dark&langs_count=6"/></td></tr></table> 
+<table><tr><td><img src="http://github-readme-streak-stats.herokuapp.com?user=SaMs-Hub&theme=prussian&hide_border=false"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMs-Hub&layout=compact&theme=vision-friendly-dark&langs_count=6"/></td></tr></table> 
 
 
   [![SaM's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SaMs-Hub&theme=xcode)](https://git.io/SaMs-Hub)
