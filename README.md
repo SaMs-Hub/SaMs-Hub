@@ -2,7 +2,7 @@
 
 ---
 
-I'm Shafi, a Tech Enthusiast from <b>Hyderabad, India</b>.
+I'm Shafi, a Techei from <b>Hyderabad, India</b>.
 <img src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="right" width="150"/>
 
 - 🌱 Having a keen interest in Startups and Developing Products that can make an beneficial impact over Peoples lives 🤓
