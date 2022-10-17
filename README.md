@@ -16,9 +16,12 @@ I'm Shafi, a Techie from <b>Hyderabad, India</b>.
   <img alt="Django" src="https://img.shields.io/badge/Django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ 
+  <img alt="ReactNative" src=" https://img.shields.io/badge/-react--native-yellow" />
+ 
   <img alt="Express"  src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white"/>
   <br>
-  <img alt="Postgres" src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
+  
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt= "Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
  
