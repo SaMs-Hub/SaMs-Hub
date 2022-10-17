@@ -17,7 +17,7 @@ I'm Shafi, a Techie from <b>Hyderabad, India</b>.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  
-  <img alt="ReactNative" src=" https://img.shields.io/badge/-react--native-yellow.svg?style=flat-square&logo=express&logoColor=white" />
+<!--   <img alt="ReactNative" src=" https://img.shields.io/badge/-react--native-yellow.svg?style=flat-square&logo=express&logoColor=white" /> -->
  
   <img alt="Express"  src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white"/>
   <br>
