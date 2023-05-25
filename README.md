@@ -48,18 +48,14 @@ I'm Shafi, a Techie from <b>Hyderabad, India</b>.
 </a>
 </div>
 
-  <br>
-  <br>
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Trophies </b>
-<br>
+
+<div>
+<h2> Github Trophies </h2>
+    <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaMs-Hub&theme=onedark)](https://github.com/SaMs-Hub/github-profile-trophy)
-
-
-   <br>
-   <br>
-
-   
+  </div>
+</div>
 
 ---
 
