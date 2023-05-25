@@ -32,15 +32,26 @@ I'm Shafi, a Techie from <b>Hyderabad, India</b>.
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=tue) -->
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-<table><tr><td><img src="http://github-readme-streak-stats.herokuapp.com?user=SaMs-Hub&theme=prussian&hide_border=false"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaMs-Hub&layout=compact&theme=vision-friendly-dark&langs_count=6"/></td></tr></table> 
+<div align="center">
 
 
-  [![SaM's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SaMs-Hub&theme=xcode)](https://git.io/SaMs-Hub)
- 
+
+<a href="https://github.com/SaMs-Hub/">
+
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=SaMs-Hub&&theme=github-dark-blue&background=130F40&text=D3D3D3&ring=7A7ADB&sideNums=FFFFFF" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaMs-Hub&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaMs-Hub&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SaMs-Hub"/>
+
+</a>
+</div>
+
   <br>
   <br>
-  <h4> GitHub Trophies </h4>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Trophies </b>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaMs-Hub&theme=onedark)](https://github.com/SaMs-Hub/github-profile-trophy)
 
